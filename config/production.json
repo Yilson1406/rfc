@@ -1,0 +1,10 @@
+{
+    "nombre": "Api full",
+    "configDB":{
+        "HOST":"mongodb+srv://yilsonmitte:yilsonmitte123@cluster0.woy4t.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    },
+    "configToken":{
+        "SEED":"julioverne",
+        "expiration": "24h"
+    }
+}
